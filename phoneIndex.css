@@ -1,0 +1,64 @@
+#body
+{
+    background-color: #1A1A1D;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+#about
+{
+    position: absolute;
+    top: 3%;
+    right: 10%;
+    height: 48px;
+    width: 48px;
+}
+#telegram
+{
+    position: absolute;
+    top: 3%;
+    left: 43%;
+}
+#insta
+{
+    position: absolute;
+    top: 3%;
+    left: 10%;
+}
+#name
+{
+    position: absolute;
+    top: 77%;
+    left: -20%;
+    bottom: 15%;
+    color: #F96167;
+    font-size: 5rem;
+}
+#div
+{
+    position: absolute;
+    text-align: left;
+    left: 10%;
+    right: 10%;
+    top: 12%;
+    bottom: 0%;
+}
+#bio
+{
+    position: relative;
+    color: #F96167;
+    font-size: 1.6rem;
+}
+#Myimage
+{
+    position: absolute;
+    top: 100%;
+    bottom: 0px;
+    left: 14%;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: drop-shadow(-10px 5px 10px #4b4545b3);
+}
+#greenCharacter
+{
+    color: #8EE4AF;
+}

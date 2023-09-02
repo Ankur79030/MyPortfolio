@@ -1,0 +1,118 @@
+#body
+{
+    background-color: #1A1A1D;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+#back
+{
+    position: absolute;
+    top: 3%;
+    left:3%
+}
+#edu
+{
+    position: absolute;
+    font-size: 2rem;
+    color: #F96167;
+    top: 15%;
+    left: 5%
+}
+#skills
+{
+    position: absolute;
+    font-size: 2rem;
+    color: #F96167;
+    top: 57%;
+    left: 5%;
+}
+#p1
+{
+    position: absolute;
+    top: 25%;
+    font-size: 1rem;
+    color: #fe999c;
+    left: 5%;
+}
+#p2
+{
+    position: absolute;
+    top: 35%;
+    font-size: 1rem;
+    color: #fe999c;
+    left: 5%;
+}
+#p3
+{
+    position: absolute;
+    top: 45%;
+    font-size: 1rem;
+    color: #fe999c;
+    left: 5%;
+}
+.highlight
+{
+    color: #F96167;
+    font-weight:bold;
+}
+#p4
+{
+    position: absolute;
+    top: 67%;
+    left: 5%;
+    font-size: 1rem;
+    color: #F96167;
+}
+.dates
+{
+    font-size: 0.9rem;
+    color: #F96167;
+}
+#d1
+{
+    position: absolute;
+    top: 30%;
+    left: 72%;
+}
+#d2
+{
+    position: absolute;
+    top: 40%;
+    left: 72%;
+}
+#d3
+{
+    position: absolute;
+    top: 50%;
+    left: 72%;
+}
+#projects
+{
+    position: absolute;
+    font-size: 2rem;
+    color: #F96167;
+    top: 100%;
+    left: 5%
+}
+#p5
+{
+    position: absolute;
+    top: 110%;
+    bottom: 0%;
+    left: 5%;
+    right: 5%;
+    font-size: 1rem;
+    color: #fe999c;
+}
+#resume
+{
+    color: #8EE4AF;
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    filter: drop-shadow(-5px 3px 5px #4b4545b3);
+}
+.greenCharacter
+{
+    color: #8EE4AF;
+}
